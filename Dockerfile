@@ -1,1 +1,1 @@
-FROM edoburu/pgbouncer:1.14.0
+FROM bitnami/pgbouncer:latest
